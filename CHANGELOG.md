@@ -1,3 +1,20 @@
+## 4.2.3 (2026-07-04)
+
+### 🚀 Features
+
+- **soba:** add keyboard controls ([#88](https://github.com/angular-threejs/angular-three/pull/88))
+
+### 🩹 Fixes
+
+- **core:** use crypto.getRandomValues fallback for __ngt_id__ in non-secure contexts ([#87](https://github.com/angular-threejs/angular-three/pull/87))
+
+### ❤️ Thank You
+
+- Chau Tran @nartc
+- Claude Fable 5
+- Huy Thai @huykuka
+- thaiqu @thaiqu
+
 ## 4.2.2 (2026-04-19)
 
 ### 🩹 Fixes
