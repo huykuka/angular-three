@@ -1,7 +1,7 @@
-diff --git a/src/executors/package/schema.json b/src/executors/package/schema.json
-index 540c0578a85d31bd67e66a0863b074cb3bcb554b..4cb66b96884e574bf0d0a1bcda33ff379ecbfba5 100644
---- a/src/executors/package/schema.json
-+++ b/src/executors/package/schema.json
+diff --git a/dist/src/executors/package/schema.json b/dist/src/executors/package/schema.json
+index a6de8f01c44c9e65a91457a654b6386f3e3d10e4..0bb931cc22f94f0b5384e59d39f7dacdd8e65ca3 100644
+--- a/dist/src/executors/package/schema.json
++++ b/dist/src/executors/package/schema.json
 @@ -1,7 +1,7 @@
  {
    "version": 2,

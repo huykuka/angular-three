@@ -6,7 +6,7 @@ settings:
 
 patchedDependencies:
   '@nx/angular':
-    hash: df5c462041a2735c6f18576fb6c23bbaa5a2010b7a60fd9755976d3fe8fe10be
+    hash: 791af58c4a5ae3f7073650c4d20fb993bb9dd8051cf0769fd7584fac88481ac0
     path: patches/@nx__angular.patch
 
 importers:
@@ -163,7 +163,7 @@ importers:
         version: 3.3.3
       '@nx/angular':
         specifier: 23.0.1
-        version: 23.0.1(patch_hash=df5c462041a2735c6f18576fb6c23bbaa5a2010b7a60fd9755976d3fe8fe10be)(83256bbc6060ba8ab27478595bc6031a)
+        version: 23.0.1(patch_hash=791af58c4a5ae3f7073650c4d20fb993bb9dd8051cf0769fd7584fac88481ac0)(83256bbc6060ba8ab27478595bc6031a)
       '@nx/cypress':
         specifier: 23.0.1
         version: 23.0.1(@babel/traverse@7.29.0)(@nx/jest@23.0.1(7ede9764b897619ba17a354b0efa9a10))(@swc-node/register@1.11.1(@emnapi/core@1.9.2)(@emnapi/runtime@1.9.2)(@swc/core@1.15.8(@swc/helpers@0.5.19))(@swc/types@0.1.25)(typescript@5.9.3))(@swc/cli@0.8.1(@swc/core@1.15.8(@swc/helpers@0.5.19))(chokidar@5.0.0))(@swc/core@1.15.8(@swc/helpers@0.5.19))(@zkochan/js-yaml@0.0.7)(cypress@15.17.0)(eslint@9.39.2(jiti@2.6.1))(nx@23.0.1(@swc-node/register@1.11.1(@emnapi/core@1.9.2)(@emnapi/runtime@1.9.2)(@swc/core@1.15.8(@swc/helpers@0.5.19))(@swc/types@0.1.25)(typescript@5.9.3))(@swc/core@1.15.8(@swc/helpers@0.5.19)))(typescript@5.9.3)
@@ -14471,7 +14471,7 @@ snapshots:
     transitivePeerDependencies:
       - supports-color
 
-  '@nx/angular@23.0.1(patch_hash=df5c462041a2735c6f18576fb6c23bbaa5a2010b7a60fd9755976d3fe8fe10be)(83256bbc6060ba8ab27478595bc6031a)':
+  '@nx/angular@23.0.1(patch_hash=791af58c4a5ae3f7073650c4d20fb993bb9dd8051cf0769fd7584fac88481ac0)(83256bbc6060ba8ab27478595bc6031a)':
     dependencies:
       '@angular-devkit/core': 21.2.7(chokidar@5.0.0)
       '@angular-devkit/schematics': 21.2.7(chokidar@5.0.0)
